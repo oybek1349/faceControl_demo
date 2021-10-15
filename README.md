@@ -4,7 +4,7 @@ Ushbu modul, IVMS 4200 dasturi bilan integratsiya qilishda qo'l keladi.
 Bu modul faqat portfolia uchun joylshtirildi.
 
 
-Kirish
+Kirish:
 <img src="img/kirish.PNG">
 
 Modul asosiy sahifasiga kirish:
